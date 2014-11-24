@@ -1,5 +1,7 @@
 language: java
 
+archive: true
+
 jdk:
    - openjdk7
    - oraclejdk7
